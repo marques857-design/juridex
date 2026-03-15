@@ -1,0 +1,16 @@
+[
+    {
+        "id_usuario": "69b090c01fdbc",
+        "nome": "Fabio Marques",
+        "email": "fabinho_180@hotmail.com",
+        "senha_hash": "$2y$10$QL3D\/hbDW.qFghu5pKItmOeTTrhhWAQayftgNHNofxyukRv3F.JOu",
+        "data_cadastro": "2026-03-10 22:44:32"
+    },
+    {
+        "id_usuario": "69b0911ec5c0e",
+        "nome": "Fabio Marques",
+        "email": "fabinho_180@hotmail.com",
+        "senha_hash": "$2y$10$M6GXylCE.UVhyoBT9t3UQO101\/0eT71oNtwiwtaBZH9yRjRHhbPee",
+        "data_cadastro": "2026-03-10 22:46:06"
+    }
+]

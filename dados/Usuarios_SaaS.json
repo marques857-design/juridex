@@ -1,0 +1,14 @@
+[
+    {
+        "id_escritorio": "esc_69b2aa52623a8",
+        "nome_escritorio": "Fabio Marques de Brito",
+        "responsavel": "Fabio Marques",
+        "telefone": "71985292591",
+        "login": "fabio",
+        "senha": "123",
+        "plano": "VIP (R$ 300)",
+        "status": "Ativo",
+        "data_cadastro": "2026-03-12 12:58:10",
+        "ultimo_acesso": "2026-03-14 21:59:48"
+    }
+]

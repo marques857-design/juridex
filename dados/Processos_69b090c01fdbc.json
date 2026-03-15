@@ -1,0 +1,22 @@
+[
+    {
+        "id": "69b1541ef1da1",
+        "id_advogado_responsavel": "69b090c01fdbc",
+        "cliente_id": "69b0dd1319d29",
+        "numero_processo": "099999999999",
+        "parte_contraria": "Adega de Bebidas",
+        "tipo_acao": "Danos morais",
+        "area_direito": "C\u00edvel",
+        "tribunal": "TJSP",
+        "vara_comarca": "1\u00ba Vara civel",
+        "estado": "SP",
+        "instancia": "1\u00aa Inst\u00e2ncia",
+        "fase_processual": "Inicial",
+        "data_abertura": "2026-03-11",
+        "valor_causa": "3000",
+        "status": "Ativo",
+        "prioridade": "Normal",
+        "observacoes": "",
+        "data_cadastro": "2026-03-11 12:38:06"
+    }
+]

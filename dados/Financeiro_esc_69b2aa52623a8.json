@@ -1,0 +1,32 @@
+[
+    {
+        "id_lancamento": "69b2cfde1a301_p1",
+        "id_advogado_responsavel": "esc_69b2aa52623a8",
+        "tipo": "Receita",
+        "categoria": "Honor\u00e1rios Iniciais",
+        "descricao": "Honorarios (Parcela 1 de 2)",
+        "valor": 1750,
+        "data_vencimento": "2026-03-13",
+        "status": "Pendente",
+        "cliente_id": "69b2ab1c9d5d3",
+        "processo_id": "69b2ac03e360f",
+        "data_registro": "2026-03-12 15:38:22",
+        "deletado": true,
+        "data_exclusao": "2026-03-15 02:43:07"
+    },
+    {
+        "id_lancamento": "69b2cfde1aab0_p2",
+        "id_advogado_responsavel": "esc_69b2aa52623a8",
+        "tipo": "Receita",
+        "categoria": "Honor\u00e1rios Iniciais",
+        "descricao": "Honorarios (Parcela 2 de 2)",
+        "valor": 1750,
+        "data_vencimento": "2026-04-13",
+        "status": "Pendente",
+        "cliente_id": "69b2ab1c9d5d3",
+        "processo_id": "69b2ac03e360f",
+        "data_registro": "2026-03-12 15:38:22",
+        "deletado": true,
+        "data_exclusao": "2026-03-15 02:43:10"
+    }
+]

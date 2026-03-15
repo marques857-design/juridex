@@ -1,0 +1,13 @@
+[
+    {
+        "id_financeiro": "69b0a2107d68e",
+        "id_advogado_responsavel": "69b090c01fdbc",
+        "id_cliente_vinculado": "69b0986a207ab",
+        "descricao": "Honor\u00e1rios Iniciail",
+        "tipo": "Receita",
+        "valor": 2500,
+        "data_vencimento": "2026-03-10",
+        "status": "Pendente",
+        "data_cadastro": "2026-03-10 23:58:24"
+    }
+]

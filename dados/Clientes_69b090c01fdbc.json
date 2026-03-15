@@ -1,0 +1,31 @@
+[
+    {
+        "id": "69b0dd1319d29",
+        "id_advogado_responsavel": "69b090c01fdbc",
+        "tipo_pessoa": "F\u00edsica",
+        "nome": "Fabio Marques",
+        "cpf_cnpj": "85180114500",
+        "rg": "12345678",
+        "data_nascimento": "1988-08-27",
+        "estado_civil": "BA",
+        "profissao": "Analista",
+        "telefone": "71985292591",
+        "email": "fabinho_180@hotmail.com",
+        "cep": "40726-185",
+        "rua": "RUA IPE BRANCO",
+        "numero": "31",
+        "bairro": "Periperi",
+        "cidade": "SALVADOR",
+        "estado": "BA",
+        "tipo_cliente_juridico": "Consultoria",
+        "area_juridica": "Previdenci\u00e1rio",
+        "status_cliente": "Ativo",
+        "score_cliente": "Padr\u00e3o",
+        "tags": "INSS",
+        "observacoes": "",
+        "valor_contrato": "2500",
+        "forma_pagamento": "PIX",
+        "numero_parcelas": "1",
+        "data_cadastro": "2026-03-11 04:10:11"
+    }
+]

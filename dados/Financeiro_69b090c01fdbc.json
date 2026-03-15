@@ -1,0 +1,41 @@
+[
+    {
+        "id_lancamento": "69b16a7c693ef_p1",
+        "id_advogado_responsavel": "69b090c01fdbc",
+        "tipo": "Receita",
+        "categoria": "Honor\u00e1rios Iniciais",
+        "descricao": "Honorarios (Parcela 1 de 3)",
+        "valor": 1000,
+        "data_vencimento": "2026-03-11",
+        "status": "Pago",
+        "cliente_id": "69b0dd1319d29",
+        "processo_id": "69b1541ef1da1",
+        "data_registro": "2026-03-11 14:14:00"
+    },
+    {
+        "id_lancamento": "69b16a7c69cef_p2",
+        "id_advogado_responsavel": "69b090c01fdbc",
+        "tipo": "Receita",
+        "categoria": "Honor\u00e1rios Iniciais",
+        "descricao": "Honorarios (Parcela 2 de 3)",
+        "valor": 1000,
+        "data_vencimento": "2026-04-11",
+        "status": "Pendente",
+        "cliente_id": "69b0dd1319d29",
+        "processo_id": "69b1541ef1da1",
+        "data_registro": "2026-03-11 14:13:32"
+    },
+    {
+        "id_lancamento": "69b16a7c69d0f_p3",
+        "id_advogado_responsavel": "69b090c01fdbc",
+        "tipo": "Receita",
+        "categoria": "Honor\u00e1rios Iniciais",
+        "descricao": "Honorarios (Parcela 3 de 3)",
+        "valor": 1000,
+        "data_vencimento": "2026-05-11",
+        "status": "Pendente",
+        "cliente_id": "69b0dd1319d29",
+        "processo_id": "69b1541ef1da1",
+        "data_registro": "2026-03-11 14:13:32"
+    }
+]

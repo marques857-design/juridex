@@ -1,0 +1,13 @@
+[
+    {
+        "id_processo": "69b09ac3d3f35",
+        "id_advogado_responsavel": "69b090c01fdbc",
+        "id_cliente_vinculado": "69b0986a207ab",
+        "numero_processo": "0112233",
+        "tribunal": "TJSP \/ SP",
+        "classe_processual": "",
+        "status_processo": "Ativo",
+        "resumo_acao": "",
+        "data_cadastro": "2026-03-10 23:27:15"
+    }
+]
